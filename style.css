@@ -1,0 +1,24 @@
+#monId {
+  color: red;
+}
+
+h1 {
+  color: #f78 !important;
+}
+
+.maClass {
+  color: greenyellow;
+}
+
+body {
+  width: 80vw;
+}
+
+iframe {
+  width: 50vw;
+}
+
+li {
+  display: flex;
+  justify-content: space-around;
+}
